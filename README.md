@@ -1,10 +1,14 @@
 # Hi there 👋
 
-This is NmuInWinter, a pre-HRT [MTF](https://en.wikipedia.org/wiki/Trans_woman) (Male to Female) girl.~ 🏳️‍⚧️
+This is NmuInWinter, a pre-HRT [MTF](https://en.wikipedia.org/wiki/Trans_woman) (Male to Female) girl in PRC.~ 🏳️‍⚧️
 
-Currently learning Chemistry & Environmental Engineering in [Soochow University, PRC](https://www.suda.edu.cn/). Enjoy studying mathematics and economy.
+Currently learning Chemistry & Environmental Engineering in [Soochow University, PRC](https://www.suda.edu.cn/) since 2022 Autumn. 
 
-And also interested in Computer Science. (Especially Computer Graphics) but may not contribute to GitHub.
+Enjoy studying mathematics and economy. And also interested in Computer Science. (Especially Computer Graphics) 
+
+May not contribute to GitHub due to my poor programming.
+
+suki 💕 Milk Tea!!!!! Maybe an ADHDer.
 
 ## Knowledge
 
@@ -18,6 +22,8 @@ Use Windows Subsystem for Linux instead.
 - Telegram: [hex_c239b3](https://t.me/NmuInWinter) or my [channel](https://t.me/nmuTalk)
 - Tencent QQ: 737057484
 - Email with PGP encryption is currently not available.
+
+> If you are in Soochow University or Xi'an Jiaotong-Liverpool University welcome to click me /w\
 
 <!--
 **NmuInWinter/NmuInWinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
