@@ -14,7 +14,7 @@ suki 💕 Milk Tea!!!!! Maybe an ADHDer.
 
 NEVER learnt any knowledge about OI competition but now self-studying algorithms of programming.
 
-A Microsoft Windows 11 User! Previously using Linux, but won't try it on my own computer any longer.
+A Microsoft Windows 11 User! Previously using Linux, but won't try it on my own computer.
 Use Windows Subsystem for Linux instead.
 
 ## How to reach me
