@@ -19,7 +19,7 @@ Use Windows Subsystem for Linux instead.
 
 ## How to reach me
 
-- Telegram: [hex_c239b3](https://t.me/NmuInWinter) or my [channel](https://t.me/nmuTalk)
+- Telegram: [NmuInWinter](https://t.me/NmuInWinter) or my [channel](https://t.me/nmuTalk)
 - Email with PGP encryption is currently not available.
 
 > If you are in Soochow University or Xi'an Jiaotong-Liverpool University welcome to click me /w\
