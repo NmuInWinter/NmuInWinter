@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This is NmuInWinter, a pre-HRT [MTF](https://en.wikipedia.org/wiki/Trans_woman) (Male to Female) girl in PRC.~ 🏳️‍⚧️
+This is NmuInWinter, a HRT-ing! [MTF](https://en.wikipedia.org/wiki/Trans_woman) (Male to Female) girl in PRC.~ 🏳️‍⚧️
 
 Currently learning Chemistry & Environmental Engineering in [Soochow University, PRC](https://www.suda.edu.cn/) since 2022 Autumn. 
 
